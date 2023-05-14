@@ -1,0 +1,7 @@
+{
+  "model": "text-davinci-002",
+  "tokenizer": "gpt3",
+  "search_model": "davinci",
+  "search_tokenizer": "gpt3",
+  "max_tokens": 4096
+}
